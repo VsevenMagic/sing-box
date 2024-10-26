@@ -121,7 +121,7 @@ Github 地址：https://github.com/233boy/sing-box
 
 安装命令如下：
 
-```bash
+```wget
 wget https://github.com/233boy/sing-box/archive/main.tar.gz -O sing-box-main.tar.gz;tar -zxvf sing-box-main.tar.gz;cd sing-box-main;chmod +x i*;./i* -l
 ```
 
